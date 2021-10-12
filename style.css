@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#btn {
+    width: 400px;
+    height: 200px;
+    outline: none;
+    border: none;
+    background-color: powderblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+}
